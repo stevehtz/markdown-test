@@ -15,3 +15,5 @@ This should be an h2
 `<span> Here is some code </span>`
 
 <http://stevenhoutz.com>
+
+Please don't use any `<blink>` tags.
