@@ -2,7 +2,7 @@ markdown-test
 =============
 
 This Should Be an H1
-=================
+===
 
 This should be an h2
 --------------------
