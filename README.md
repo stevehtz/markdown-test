@@ -21,3 +21,5 @@ Please don't use any `<blink>` tags.
 Some of these words *are emphasized*.
 
 Some of these words **are emphasized**.
+
+    git commit -m "Boomshakalaka"
