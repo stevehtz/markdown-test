@@ -12,6 +12,8 @@ This should be an h2
 * BULLET
 * 
 
+                this is the end
+
 `<span> Here is some code </span>`
 
 <http://stevenhoutz.com>
@@ -22,4 +24,9 @@ Some of these words *are emphasized*.
 
 Some of these words **are emphasized**.
 
-                git commit -m "Boomshakalaka"
+
+
+git commit -m "Boomshakalaka"
+                
+                
+
